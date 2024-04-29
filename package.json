@@ -10,13 +10,15 @@
   },
   "dependencies": {
     "@tanstack/react-query": "^5.31.0",
+    "@walletconnect/web3wallet": "^1.11.2",
     "@web3modal/wagmi": "^4.1.11",
     "axios": "^1.6.8",
     "next": "^14.2.2",
     "react": "^18",
     "react-dom": "^18",
     "viem": "^2.9.25",
-    "wagmi": "^2.5.20"
+    "wagmi": "^2.5.20",
+    "walletconnect": "^1.7.8"
   },
   "devDependencies": {
     "@types/node": "^20",
